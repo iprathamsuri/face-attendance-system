@@ -1,0 +1,4 @@
+dataset/
+trainer.yml
+labels.pkl
+__pycache__/
